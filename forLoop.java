@@ -2,8 +2,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-  for(int k=0; k<5; k++){
-      for(int m=4; m>=k; m--){
+  for(int i=0; i<5; i++){
+      for(int j=4; j>=k; j--){
           System.out.print("*");
       }
       System.out.println();
