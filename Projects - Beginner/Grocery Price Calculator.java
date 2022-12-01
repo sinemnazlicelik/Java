@@ -15,7 +15,7 @@ public class Main {
     Double zucchiniKg = scan.nextDouble();
     Double TotalPrice =0.0;
     TotalPrice=(tomatoPrice*TomatoesKg)+(cucumberPrice*CucumberQuantity)+(zucchiniPrice*zucchiniKg);
-    System.out.println("Total price of your shopping = "+TotalPrice+" $");
+    System.out.println("Total price of your shopping = " +TotalPrice+ " $");
 
     }
 }
